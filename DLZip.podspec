@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "DLZip"
-s.version          = "0.5.0"
+s.version          = "0.6.0"
 s.summary          = "DLZip. zip, unzip."
 s.description      = "DLZip is easier for unzip .zipfile or zip files."
 s.homepage         = "https://github.com/WildDylan/DLZip"
