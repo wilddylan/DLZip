@@ -65,7 +65,8 @@
             }
         }
         
-        success = zipClose(file, NULL);;
+        zipClose(file, NULL);
+        success = YES;
     }
     
     return success;

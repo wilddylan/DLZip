@@ -22,6 +22,7 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		D392F66C58A3FE32AED25D83 /* Pods_DLZip_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80579F575AAC25BC9F9B9E55 /* Pods_DLZip_Example.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		FCB739741C337B0900E6A87E /* TestPasswordArchive.zip in Resources */ = {isa = PBXBuildFile; fileRef = FCB739731C337B0900E6A87E /* TestPasswordArchive.zip */; };
 		FF9140C62053B7C0D2263A40 /* Pods_DLZip_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2A46C7CA6CBB8E2E05A33CD /* Pods_DLZip_Tests.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -65,6 +66,7 @@
 		D27BA328947785B8DBEE0984 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D4FDD20271C92B00F01D06F1 /* Pods-DLZip_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DLZip_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DLZip_Tests/Pods-DLZip_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		DD1D31F37CFFF9ACBFC36C6C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FCB739731C337B0900E6A87E /* TestPasswordArchive.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = TestPasswordArchive.zip; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 		6003F593195388D20070C39A /* Example for DLZip */ = {
 			isa = PBXGroup;
 			children = (
+				FCB739731C337B0900E6A87E /* TestPasswordArchive.zip */,
 				6003F59C195388D20070C39A /* DLAppDelegate.h */,
 				6003F59D195388D20070C39A /* DLAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
+				FCB739741C337B0900E6A87E /* TestPasswordArchive.zip in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
