@@ -8,6 +8,8 @@
 
 @import XCTest;
 
+@import DLZip;
+
 @interface Tests : XCTestCase
 
 @end
@@ -29,6 +31,16 @@
 - (void)testExample
 {
     XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+}
+
+- (void)testZip {
+    
+    
+}
+
+- (void)testUnZip {
+    
+    
 }
 
 @end

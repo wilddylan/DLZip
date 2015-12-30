@@ -1,0 +1,6 @@
+framework module Pods_DLZip_Tests {
+  umbrella header "Pods-DLZip_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

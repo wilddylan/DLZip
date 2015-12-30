@@ -1,0 +1,6 @@
+framework module DLZip {
+  umbrella header "DLZip-umbrella.h"
+
+  export *
+  module * { export * }
+}
