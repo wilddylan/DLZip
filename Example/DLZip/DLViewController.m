@@ -7,6 +7,7 @@
 //
 
 #import "DLViewController.h"
+#import "DLZip.h"
 
 @interface DLViewController ()
 

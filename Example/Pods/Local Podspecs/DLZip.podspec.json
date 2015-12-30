@@ -1,25 +1,21 @@
 {
   "name": "DLZip",
-  "version": "0.1.0",
-  "summary": "A short description of DLZip.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/DLZip",
+  "version": "0.3.0",
+  "summary": "DLZip. zip, unzip.",
+  "description": "DLZip is easier for unzip .zipfile or zip files.",
+  "homepage": "https://github.com/WildDylan/DLZip",
   "license": "MIT",
   "authors": {
     "Dylan": "3664132@163.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/DLZip.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/WildDylan/DLZip.git",
+    "tag": "0.3.0"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "4.0"
   },
+  "libraries": "z",
   "requires_arc": true,
-  "source_files": "Pod/Classes/**/*",
-  "resource_bundles": {
-    "DLZip": [
-      "Pod/Assets/*.png"
-    ]
-  }
+  "source_files": "Pod/Classes/**/*"
 }

@@ -1,5 +1,5 @@
 PODS:
-  - DLZip (0.1.0)
+  - DLZip (0.3.0)
 
 DEPENDENCIES:
   - DLZip (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  DLZip: 694b9b3bba46f3223cd614a8cb2f6c3a55775b9b
+  DLZip: 2d573d07bdf3bdfe31d7071c5eb439de1986bb02
 
 COCOAPODS: 0.39.0.beta.5
